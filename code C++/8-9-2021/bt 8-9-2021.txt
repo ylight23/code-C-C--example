@@ -1,0 +1,11 @@
+b1:cho class phan so gom 2 thuoc tinh
+cho n lop phan so.hoi:
+viet chuong trinh nhap xuatI/O
+tim phan so max
+sap xep n phan so tang dan
+
+b2:cho lop sinh vien gomthuoc tinh :ho ten, ma ID,diem trung binh
++viet chuong trinh nhap xuat
++tim diem trung binh max
++sap xep danh sach theo thu tu diem trung binh giam dan.Neu cac DTB = nhau
+,sap  xep theo ten theo bang chu cai A,B,C,D,..

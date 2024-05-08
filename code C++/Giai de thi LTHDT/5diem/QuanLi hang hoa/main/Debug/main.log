@@ -1,0 +1,7 @@
+﻿  QuanLiHH.cpp
+C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\main\QuanLiHH.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\main\QuanLiHH.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\main\QuanLiHH.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\main\QuanLiHH.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\main\QuanLiHH.cpp(110): warning C4715: 'QuanLi::XoaSP': not all control paths return a value
+  main.vcxproj -> C:\Users\ASUS TUF\Desktop\code c++\Giai de thi LTHDT\5diem\QuanLi hang hoa\Debug\main.exe

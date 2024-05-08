@@ -1,0 +1,44 @@
+- dây cắm thẳng dây cắm chéo:
+chéo cùng loaị(2 cái pc, 2 router, ..)
+thẳng khác loại( 1 pc + 1router,1 pc+ 1 switch)
+ 
+da thuc fx voi cac he so ai la so thuc, a(n) khac 0
+xay dung phuong thuc nhap cac he so cua da thuc
+tinh gia tri f(x) tai x = x0
+xd ham 2 da thuc f(x) + g(x)
+
+b3:
+xay dung lop hinh chu nhat mo ta lai du lieu tren
+xdung phuong thuc kiem tra 2 hcn, vi tri cua 2 hcn
+mo rong voi phuong thuc bai toan tren,gia su co n hcn
+->tim hcn co dien tich be nhat bao toan bo ca hcn tren 
+->tim hcn nho nhat co diem chung voi n hcn(neu co)
+
+BTVN;
+ b1:trên mp toa do cho n diem
+
++tim hcn co cac canh song song voi truc toa do có kích thước
++tim đa giac lồi chứa n điểm trên
+
+b2: cho bàn cờ vua kích thước 8x8(ko xoay bàn cờ)
++hỏi có thể xếp dc tối đa bao nhiêu hậu để chúng ko ăn lẫn nhau
+
++ thay hậu =mã....
+b3:cho ma trận kích thước mxn cac giá trị [0;1]. trong đó 1 là ô có mìn ,0 là ko có mìn.1 người là ở vị trí i,j với X(i,j)=0 dc phép di chuyển 4 hướng.
+hỏi để người có bao nhiêu đường đi để ra khỏi ma trận để ko đi vào vị tri có mìn
+viết bằng ctrinh input ouput
+b4:
+1 người đi du lịch mang quà lưu niệm mang n đồ vật. mỗi 1 vật có 2 tham số mô tả :ai lầ trọng lượng, bi là tiền.
+quy định bằng số nguyên.hỏi cho phép ai ko vượt quá tổng trọng lượng<=M cho phép và tổng tiền đạt bi giá trị max
+b5:
+cho 1 ds gom n1 hinh tron, n2 hcn, h3 hinh 3 giac, n1 ,n2,n3 la nguyen
++xac dinh lớp mô tả các hình trên
++trong các hình đã cho, hình nào có dtich max
+b6: trong 1 cty có n nhân công có 2 loại : công nhân sx = spX 5000d
+nhân viên: hệ số lương x 1tr3
+xây dựng lớp mô tả quá trình dữ liệu lưu trữ
+tìm người có mức lương nhỏ nhất trong cty
+tính tổng quỹ lương chi trả của cty trong tháng
+
+
+https://sites.google.com/a/wru.vn/tin-hoc-co-ban/bai-tap-c/bai-tap-c
